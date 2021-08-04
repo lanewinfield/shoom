@@ -2,6 +2,7 @@
 a foot-activated webcam to show off your sneakers
  
  ![Zoomout schematic](tiktok.gif)
+ 
  As seen on [TikTok](https://vm.tiktok.com/ZMdTNyktn/)
  
  ## System compatibility
@@ -10,12 +11,12 @@ a foot-activated webcam to show off your sneakers
  * Ends Zoom + Google Meet calls (in Google Chrome)
  
  ## What is what?
- * `code.py` is the firmware for the Feather
- * `zoomout-handle.stl` and `zoomout-mount` are the 3d print files for the handle and mount. (Also available to edit on Tinkercad [here](https://www.tinkercad.com/things/749yRW8q4SA) and [here](https://www.tinkercad.com/things/cFzmRNmvD24))
+ * `code.py` is the firmware for the Trinket M0
+ * `zoomout-handle.stl` and `zoomout-mount` are the 3d print files for the handle and mount. (Also available to edit on Tinkercad [here](https://www.tinkercad.com/things/csqugaID6Sr))
  
  ## Hardware
  ### Supplies
- * Adafruit Feather m0
+ * [Adafruit Trinket M0](https://www.adafruit.com/product/3500)
  * A button switch
  * A 3D printer for parts
  ### Wiring
