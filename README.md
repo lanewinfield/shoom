@@ -1,7 +1,8 @@
+![Shoom logo](shoom-logo.png)
 # shoom
 a foot-activated webcam to show off your sneakers
  
- ![Zoomout schematic](images/tiktok.gif)
+ ![Shoom TikTok](images/tiktok.gif)
  
  As seen on [TikTok](https://vm.tiktok.com/ZMdTNyktn/)
  
@@ -107,3 +108,7 @@ Within your video chat app of choice, change your webcam to `OBS Virtual Camera`
 You should be good to go. Use the foot switch to change it back and forth. On Mac, I find I have to have the OBS window active for the hotkeys to work.
 
  **Enjoy!**
+ 
+##Thank you
+
+Big thank you to [Adafruit](https://adafruit.com) who made the tutorial for the foot switch AND the firmware for it. Almost all the stuff I've built is made using Adafruit parts, they're the very best for creative hacking.
