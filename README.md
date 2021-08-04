@@ -110,6 +110,6 @@ You should be good to go. Use the foot switch to change it back and forth. On Ma
 
  **Enjoy!**
  
-##Thank you
+## Thank you
 
 Big thank you to [Adafruit](https://adafruit.com) who made the tutorial for the foot switch AND the firmware for it. Almost all the stuff I've built is made using Adafruit parts, they're the very best for creative hacking.
