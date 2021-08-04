@@ -10,7 +10,7 @@ a foot-activated webcam to show off your sneakers
  ## System compatibility
  * Tested on macOS Catalina (10.15)
  * Probably works on Windows too. All the same software and code.
- * Ends Zoom + Google Meet calls (in Google Chrome)
+ * Should work with any video chat app that you can change the video source on.
  
  ## What is what?
  * `code.py` is the firmware for the Trinket M0
