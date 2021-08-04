@@ -1,7 +1,7 @@
 # shoom
 a foot-activated webcam to show off your sneakers
  
- ![Zoomout schematic](images/tiktok.gif)
+ ![Shoom TikTok](images/tiktok.gif)
  
  As seen on [TikTok](https://vm.tiktok.com/ZMdTNyktn/)
  
